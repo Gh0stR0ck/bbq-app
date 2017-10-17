@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BBQAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_recipe">Nieuw recept</string>
+    <string name="action_clear_recipes">Verwijder alle recepten</string>
+    <string name="title_activity_add_recipe">AddRecipe Activity</string>
+</resources>
